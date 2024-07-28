@@ -1,4 +1,4 @@
-# text_recognition
+# ProjectPulse
 
 A new Flutter project.
 
